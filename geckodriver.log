@@ -1,0 +1,425 @@
+1666801541654	geckodriver	INFO	Listening on 127.0.0.1:57918
+1666801835403	geckodriver	INFO	Listening on 127.0.0.1:59361
+1666801853615	geckodriver	INFO	Listening on 127.0.0.1:59375
+1666801958422	geckodriver	INFO	Listening on 127.0.0.1:59415
+1666802253181	geckodriver	INFO	Listening on 127.0.0.1:59489
+1666802333305	geckodriver	INFO	Listening on 127.0.0.1:59504
+1666802359721	geckodriver	INFO	Listening on 127.0.0.1:59514
+1666802362775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileEJb0Jw"
+1666802363323	Marionette	INFO	Marionette enabled
+1666802363330	Marionette	INFO	Listening on port 59524
+WebDriver BiDi listening on ws://127.0.0.1:59515
+Read port: 59524
+1666802363593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileEJb0Jw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59515/devtools/browser/2852c7b5-28c9-4806-93ef-3afce6bb1b31
+1666803317803	geckodriver	INFO	Listening on 127.0.0.1:63483
+1666803320862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileYsvICz"
+1666803321209	Marionette	INFO	Marionette enabled
+1666803321214	Marionette	INFO	Listening on port 63493
+WebDriver BiDi listening on ws://127.0.0.1:63484
+Read port: 63493
+1666803321447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileYsvICz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63484/devtools/browser/e97d5824-9638-419a-809f-282b3c14e057
+1666803325699	Marionette	INFO	Stopped listening on port 63493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666803679544	geckodriver	INFO	Listening on 127.0.0.1:52696
+1666803682594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileavIlNj"
+1666803683001	Marionette	INFO	Marionette enabled
+1666803683006	Marionette	INFO	Listening on port 52707
+Read port: 52707
+WebDriver BiDi listening on ws://127.0.0.1:52697
+1666803683115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileavIlNj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52697/devtools/browser/bbff7528-f03d-486d-92a1-2b5fded1573a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666803703236	Marionette	INFO	Stopped listening on port 52707
+1666803705742	geckodriver	INFO	Listening on 127.0.0.1:52769
+1666803708762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileT8TQbX"
+1666803709176	Marionette	INFO	Marionette enabled
+1666803709182	Marionette	INFO	Listening on port 52779
+Read port: 52779
+WebDriver BiDi listening on ws://127.0.0.1:52770
+1666803709303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileT8TQbX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52770/devtools/browser/afa99212-5eca-46b4-bd7c-cabf64ab7eae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666803737771	Marionette	INFO	Stopped listening on port 52779
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666803742473	geckodriver	INFO	Listening on 127.0.0.1:52863
+1666803745507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileHmjpCc"
+1666803745883	Marionette	INFO	Marionette enabled
+1666803745887	Marionette	INFO	Listening on port 52873
+Read port: 52873
+WebDriver BiDi listening on ws://127.0.0.1:52864
+1666803746033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileHmjpCc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52864/devtools/browser/3b71e5e4-3e44-4389-a936-1916beb86328
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666808869406	Marionette	INFO	Stopped listening on port 52873
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666808912416	geckodriver	INFO	Listening on 127.0.0.1:59700
+1666808915465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileK1M7CR"
+1666808915862	Marionette	INFO	Marionette enabled
+1666808915867	Marionette	INFO	Listening on port 59714
+Read port: 59714
+WebDriver BiDi listening on ws://127.0.0.1:59701
+1666808915973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileK1M7CR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59701/devtools/browser/f697abf3-2e1a-4438-8c5c-913e1259eff9
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://duckduckgo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://duckduckgo.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666808959691	Marionette	INFO	Stopped listening on port 59714
+1666808966042	geckodriver	INFO	Listening on 127.0.0.1:59794
+1666808969075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilerb7hGN"
+1666808969440	Marionette	INFO	Marionette enabled
+1666808969447	Marionette	INFO	Listening on port 59805
+Read port: 59805
+WebDriver BiDi listening on ws://127.0.0.1:59795
+1666808969578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilerb7hGN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59795/devtools/browser/97d4e2a6-7349-486b-848c-7f2ce9b839f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://duckduckgo.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666809024136	Marionette	INFO	Stopped listening on port 59805
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+ port 59879
+Read port: 59879
+WebDriver BiDi listening on ws://127.0.0.1:59867
+1666808994977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileY0I4f0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59867/devtools/browser/5ea09286-d2d1-4ab5-8e93-b5756f54c7b1
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:850:3
+
+1666809021028	Marionette	INFO	Stopped listening on port 59879
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1666809070870	geckodriver	INFO	Listening on 127.0.0.1:59990
+1666809073899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileyDEiNm"
+1666809074320	Marionette	INFO	Marionette enabled
+1666809074326	Marionette	INFO	Listening on port 60002
+WebDriver BiDi listening on ws://127.0.0.1:59991
+Read port: 60002
+1666809074630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileyDEiNm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59991/devtools/browser/0cd8a07f-9144-4594-9511-159b0f646afc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666809261791	Marionette	INFO	Stopped listening on port 60002
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11108, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+666809236019	Marionette	INFO	Listening on port 60294
+Read port: 60294
+WebDriver BiDi listening on ws://127.0.0.1:60279
+1666809236129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile2c9h0P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60279/devtools/browser/dc6cc9dc-0b1a-461b-86f2-b6c5930d4643
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+1666809256966	Marionette	INFO	Stopped listening on port 60294
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666809584969	geckodriver	INFO	Listening on 127.0.0.1:60483
+1666809588029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilehsJ88I"
+1666809588598	Marionette	INFO	Marionette enabled
+1666809588606	Marionette	INFO	Listening on port 60493
+WebDriver BiDi listening on ws://127.0.0.1:60484
+Read port: 60493
+1666809588938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilehsJ88I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60484/devtools/browser/c6b1c319-fe53-443e-9529-60da35111b29
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1666809647239	Marionette	INFO	Stopped listening on port 60493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666809732233	geckodriver	INFO	Listening on 127.0.0.1:60725
+1666809735281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile6WlioG"
+1666809735643	Marionette	INFO	Marionette enabled
+1666809735647	Marionette	INFO	Listening on port 60735
+Read port: 60735
+WebDriver BiDi listening on ws://127.0.0.1:60726
+1666809735794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile6WlioG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60726/devtools/browser/3985e018-7262-4227-b622-2363130cf148
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+1666809750997	Marionette	INFO	Stopped listening on port 60735
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666809818443	geckodriver	INFO	Listening on 127.0.0.1:60805
+1666809821500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileZby6Ss"
+1666809821857	Marionette	INFO	Marionette enabled
+1666809821861	Marionette	INFO	Listening on port 60815
+WebDriver BiDi listening on ws://127.0.0.1:60806
+Read port: 60815
+1666809822080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileZby6Ss\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60806/devtools/browser/a66c2c4d-0ee3-448f-98a7-f01c9b10c421
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+1666809849045	Marionette	INFO	Stopped listening on port 60815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666809851407	geckodriver	INFO	Listening on 127.0.0.1:60903
+1666809854469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilelAE8m8"
+1666809854900	Marionette	INFO	Marionette enabled
+1666809854906	Marionette	INFO	Listening on port 60914
+Read port: 60914
+WebDriver BiDi listening on ws://127.0.0.1:60904
+1666809855035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilelAE8m8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60904/devtools/browser/a8d83847-6837-49ae-85de-9570822236b7
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+1666809862784	Marionette	INFO	Stopped listening on port 60914
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666809900820	geckodriver	INFO	Listening on 127.0.0.1:61009
+1666809903885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilexQTfj5"
+1666809904302	Marionette	INFO	Marionette enabled
+1666809904309	Marionette	INFO	Listening on port 61019
+WebDriver BiDi listening on ws://127.0.0.1:61010
+Read port: 61019
+1666809904609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilexQTfj5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61010/devtools/browser/1cdd1f4a-0b3e-4ef7-976f-fe878ba32c36
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666815055027	Marionette	INFO	Stopped listening on port 61019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+s, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666810313619	Marionette	INFO	Stopped listening on port 61244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666810315878	geckodriver	INFO	Listening on 127.0.0.1:61374
+1666810318918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileXyXTvg"
+1666810319278	Marionette	INFO	Marionette enabled
+1666810319283	Marionette	INFO	Listening on port 61384
+WebDriver BiDi listening on ws://127.0.0.1:61375
+Read port: 61384
+1666810319525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileXyXTvg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61375/devtools/browser/582b821c-f5da-46b3-b75a-c0e2d256f866
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666810370982	Marionette	INFO	Stopped listening on port 61384
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666810375369	geckodriver	INFO	Listening on 127.0.0.1:61493
+1666810378437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilewvUFD1"
+1666810378786	Marionette	INFO	Marionette enabled
+1666810378792	Marionette	INFO	Listening on port 61503
+WebDriver BiDi listening on ws://127.0.0.1:61494
+Read port: 61503
+1666810379027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilewvUFD1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61494/devtools/browser/d36a5f48-56d5-40ac-bb15-a31788dbf724
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+JavaScript error: https://studentlink.atriumcampus.com/v3/assets/js/admin/version2/jsa_scripts.js?id=20221026145348, line 13803: TypeError: $(...).select2 is not a function
+JavaScript error: https://studentlink.atriumcampus.com/v3/assets/js/admin/version2/jsa_scripts.js?id=20221026145348, line 13922: TypeError: $(...).select2 is not a function
+1666810447880	Marionette	INFO	Stopped listening on port 61503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666810467038	geckodriver	INFO	Listening on 127.0.0.1:61655
+1666810470089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileRvlgWL"
+1666810470493	Marionette	INFO	Marionette enabled
+1666810470498	Marionette	INFO	Listening on port 61665
+Read port: 61665
+WebDriver BiDi listening on ws://127.0.0.1:61656
+1666810470612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileRvlgWL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61656/devtools/browser/011262d7-6240-46ab-9d42-fb66f4c29790
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+JavaScript error: https://beaconcard.umb.edu/custom/v4/js/jsa_scripts.min.js?unique=20221026135513, line 2: TypeError: $(...).inFieldLabels is not a function
+1666810525445	Marionette	INFO	Stopped listening on port 61665
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 239: TypeError: NetworkError: Network request failed
+1666810684324	geckodriver	INFO	Listening on 127.0.0.1:59750
+1666810687359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile0Ggy8X"
+1666810687694	Marionette	INFO	Marionette enabled
+1666810687699	Marionette	INFO	Listening on port 59760
+WebDriver BiDi listening on ws://127.0.0.1:59751
+Read port: 59760
+1666810687951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile0Ggy8X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59751/devtools/browser/60aa6552-a4e0-428c-9476-1327093c5625
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+JavaScript error: https://beaconcard.umb.edu/custom/v4/js/jsa_scripts.min.js?unique=20221026135908, line 2: TypeError: $(...).inFieldLabels is not a function
+JavaScript warning: https://nexus.ensighten.com/citizensbank/prod/Bootstrap.js, line 509: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.glassboxcdn.com/citizen/com/p/detector-dom.min.js, line 73: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://www.citizensbank.com/7My9NZk1s2/GVlipkfG/Mf/aXu7kprLEQzO/VwgDKA/AQAXPmAp/CkkB, line 1: unreachable code after return statement
+JavaScript warning: https://www.citizensbank.com/7My9NZk1s2/GVlipkfG/Mf/aXu7kprLEQzO/VwgDKA/AQAXPmAp/CkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.citizensbank.com/7My9NZk1s2/GVlipkfG/Mf/aXu7kprLEQzO/VwgDKA/AQAXPmAp/CkkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www3.citizensbankonline.com/efs/efs/jsp-ns/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www3.citizensbankonline.com/mqdTXeR9_T/fh/gdBsq455/3faYwQ2b1J/OTsqAg/KSNvCyM/_bzkB, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/c6a477a8a7f5/5b9adfd1f79d/launch-e2c3d40f4766.min.js, line 8: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www3.citizensbankonline.com/mqdTXeR9_T/fh/gdBsq455/3faYwQ2b1J/OTsqAg/KSNvCyM/_bzkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://nexus.ensighten.com/citizensbank/olbprod/code/536077c15f077befae99755e07dfbfad.js?conditionId0=421909, line 32: unreachable code after return statement
+JavaScript warning: https://nexus.ensighten.com/citizensbank/olbprod/code/536077c15f077befae99755e07dfbfad.js?conditionId0=421909, line 36: unreachable code after return statement
+JavaScript warning: https://nexus.ensighten.com/citizensbank/olbprod/code/e4925821b6154a6efd6f6833d7387606.js?conditionId0=4842182, line 111: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www3.citizensbankonline.com/mqdTXeR9_T/fh/gdBsq455/3faYwQ2b1J/OTsqAg/KSNvCyM/_bzkB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.glassboxcdn.com/citizen/OLB/p/detector-dom.min.js?, line 71: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://cdn.glassboxcdn.com/citizen/OLB/p/detector-dom.min.js?, line 71: asm.js type error: cannot create array view without an asm.js heap parameter
+JavaScript warning: https://content.citizensbankonline.com/fp/check.js;CIS3SID=8436EE5269DFE6AC48AE618B5310B06B?org_id=8s1rqgxh&session_id=cbe660b3f85493eb12f17cd8872361bc&nonce=b29dda631a83ac59&jb=3433262468736d773f5f696e6c6d77712668716f3f5569666c6d75712732323332246a7160753f446b7a6566677a266873603f466b70656e677a273032313234, line 709: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www3.citizensbankonline.com."
+1666811031148	Marionette	INFO	Stopped listening on port 59760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666815070370	geckodriver	INFO	Listening on 127.0.0.1:61345
+1666815073455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileQ7bDOn"
+1666815073971	Marionette	INFO	Marionette enabled
+1666815073977	Marionette	INFO	Listening on port 61356
+Read port: 61356
+WebDriver BiDi listening on ws://127.0.0.1:61346
+1666815074075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileQ7bDOn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61346/devtools/browser/1477f849-22c3-48aa-9e75-d128168157fd
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://account.activedirectory.windowsazure.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mysignins.microsoft.com."
+1666815185436	Marionette	INFO	Stopped listening on port 61356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666815187197	geckodriver	INFO	Listening on 127.0.0.1:61583
+1666815190270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileRN5yj9"
+1666815190577	Marionette	INFO	Marionette enabled
+1666815190581	Marionette	INFO	Listening on port 61596
+Read port: 61596
+WebDriver BiDi listening on ws://127.0.0.1:61584
+1666815190670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileRN5yj9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61584/devtools/browser/1a48039e-0734-4b5b-b404-d59f41889952
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+1666815247424	Marionette	INFO	Stopped listening on port 61596
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+profileSyYeJt"
+1666815242882	Marionette	INFO	Marionette enabled
+1666815242888	Marionette	INFO	Listening on port 62050
+WebDriver BiDi listening on ws://127.0.0.1:62040
+Read port: 62050
+1666815243115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666815253232	geckodriver	INFO	Listening on 127.0.0.1:62060
+1666815256266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileW4XL4V"
+1666815256561	Marionette	INFO	Marionette enabled
+1666815256566	Marionette	INFO	Listening on port 62071
+Read port: 62071
+WebDriver BiDi listening on ws://127.0.0.1:62061
+1666815256658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileW4XL4V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62061/devtools/browser/603fcaf8-97e9-400c-89f2-9da8472c37d5
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666815530439	geckodriver	INFO	Listening on 127.0.0.1:62415
+1666815533487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilee9P4mo"
+1666815533809	Marionette	INFO	Marionette enabled
+1666815533814	Marionette	INFO	Listening on port 62425
+Read port: 62425
+WebDriver BiDi listening on ws://127.0.0.1:62416
+1666815533912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilee9P4mo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62416/devtools/browser/b6c457be-6cfd-43d9-adf9-a64efd770f8d
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666815711094	geckodriver	INFO	Listening on 127.0.0.1:62696
+1666815714148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilejp6Jex"
+1666815714506	Marionette	INFO	Marionette enabled
+1666815714511	Marionette	INFO	Listening on port 62706
+WebDriver BiDi listening on ws://127.0.0.1:62697
+Read port: 62706
+1666815714742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofilejp6Jex\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62697/devtools/browser/b10f81ef-3eaa-43f2-8a88-d914ff6e326a
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666815793819	geckodriver	INFO	Listening on 127.0.0.1:62974
+1666815796886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileWXG5Jd"
+1666815797286	Marionette	INFO	Marionette enabled
+1666815797290	Marionette	INFO	Listening on port 62985
+Read port: 62985
+WebDriver BiDi listening on ws://127.0.0.1:62975
+1666815797388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofileWXG5Jd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62975/devtools/browser/1fddd42b-568f-4d41-b8fe-7ed8aa1940c6
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1666815852538	geckodriver	INFO	Listening on 127.0.0.1:63555
+1666815855593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63556" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile43iwIo"
+1666815855986	Marionette	INFO	Marionette enabled
+1666815855991	Marionette	INFO	Listening on port 63567
+Read port: 63567
+WebDriver BiDi listening on ws://127.0.0.1:63556
+1666815856098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\OldMc\\AppData\\Local\\Temp\\rust_mozprofile43iwIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63556/devtools/browser/0d721559-f8ed-461f-adbc-57a8293d4414
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/webcompat@mozilla.org.xpi!/experiment-apis/matchPatterns.js, line 18: NS_ERROR_MALFORMED_URI: 
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666815861248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
